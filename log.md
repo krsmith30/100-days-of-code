@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+Day 02: April 5, 2018 
+
+**Progress**: Added all text I want on the site and threw in a couple images I want to use. Need to add color and figure out how to use movie reel image as background on the heading. 
+
+**Thoughts**: Still think it's fun! I have been googling things to get it to look exactly how I want. 
+
+**Link to work**: same as yesterday. 
+
+
 Day 01: April 4, 2018 
 
 **Today's Progress**: Theme/idea for tribute page for free code camp. I put most of the info I want on there and will work over the next few days to make it look fancy
