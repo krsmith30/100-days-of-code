@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-Day 02: April 5, 2018 
+Day 04: April 5, 2018
+**Progress**: Finalized all text and images I want in site. I think I finalized the layout. Need to add background color of black and text color of gold... not sure how to do that. 
+
+**Thoughts**: Frustrated because I can't remember how to change the background and text color, which seems like such a simple thing to do. 
+
+Day 03: April 4, 2018
+**Progress**: Continued adding text. Played around with layout of images and text 
+
+Day 02: April 3, 2018 
 
 **Progress**: Added all text I want on the site and threw in a couple images I want to use. Need to add color and figure out how to use movie reel image as background on the heading. 
 
@@ -9,7 +17,7 @@ Day 02: April 5, 2018
 **Link to work**: same as yesterday. 
 
 
-Day 01: April 4, 2018 
+Day 01: April 2, 2018 
 
 **Today's Progress**: Theme/idea for tribute page for free code camp. I put most of the info I want on there and will work over the next few days to make it look fancy
 
