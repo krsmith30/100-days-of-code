@@ -1,11 +1,13 @@
 # 100 Days Of Code - Log
 
 Day 04: April 5, 2018
+
 **Progress**: Finalized all text and images I want in site. I think I finalized the layout. Need to add background color of black and text color of gold... not sure how to do that. 
 
 **Thoughts**: Frustrated because I can't remember how to change the background and text color, which seems like such a simple thing to do. 
 
 Day 03: April 4, 2018
+
 **Progress**: Continued adding text. Played around with layout of images and text 
 
 Day 02: April 3, 2018 
