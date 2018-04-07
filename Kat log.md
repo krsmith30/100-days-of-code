@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+Day 06: April 7, 2018
+
+**Progress**: Added social links, about me to portfolio. Tweaked other small things. 
+
+**Thoughts**: This is going to take forever! Happy I'm learning it and it makes more sense the more work I do. 
+
+
 Day 05: April 6, 2018
 
 **Progress**: Started work on my personal portfolio for FCC. Created nav bar. 
