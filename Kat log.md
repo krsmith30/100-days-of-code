@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+Day 05: April 6, 2018
+
+**Progress**: Started work on my personal portfolio for FCC. Created nav bar. 
+
+**Thoughts**: Overwhelmed by how large this project is. I think it's going to take me a loooooong time. I've looked at examples on Codepen and am very scared by the amount of code it takes to create this site. I'm still excited to learn it, but it's scary. 
+
 Day 04: April 5, 2018
 
 **Progress**: Finalized all text and images I want in site. I think I finalized the layout. Need to add background color of black and text color of gold... not sure how to do that. 
