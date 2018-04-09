@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+Day 08: April 9, 2018- forgot to document yesterday
+
+**Progress**: Got all content on portfolio. Added background colors and text colors. Need to add image of me, image of work samples, change font and should be done! 
+
+**Thoughts**: Happy it's almost done- really like the look of it.
+
 Day 06: April 7, 2018
 
 **Progress**: Added social links, about me to portfolio. Tweaked other small things. 
