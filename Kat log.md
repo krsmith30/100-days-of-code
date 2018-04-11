@@ -1,4 +1,10 @@
 # 100 Days Of Code - Log
+Day 09: April 10
+
+**Progress**: Finished portfolio site 
+
+**Thoughts**: Glad it's done! Happy with how it turned out, but have some tweaks to make still. 
+
 
 Day 08: April 9, 2018- forgot to document yesterday
 
