@@ -1,4 +1,14 @@
 # 100 Days Of Code - Log
+Day 11: April 12:
+
+More adjustments to portfolio. Need to figure out how to get columns to appear correctly on mobile. Need to figure out how to position profile pic better, adjust spacing on icons. 
+
+Working through course on FCC again- starting basic javascript.
+
+Day 10: April 11
+
+Forgot to log this yesterday. Made minor tweaks to online portfolio. Adjusted positioning.
+
 Day 09: April 10
 
 **Progress**: Finished portfolio site 
