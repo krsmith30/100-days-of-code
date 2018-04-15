@@ -1,4 +1,7 @@
 # 100 Days Of Code - Log
+
+**Day 13**: Forgot to log yesterday. Worked on javascript section of FCC. Today worked through the same and also on W3 schools practices.
+
 Day 11: April 12:
 
 More adjustments to portfolio. Need to figure out how to get columns to appear correctly on mobile. Need to figure out how to position profile pic better, adjust spacing on icons. 
