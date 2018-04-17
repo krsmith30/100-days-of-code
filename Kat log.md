@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+**Day 14/15**: Forgot to log again! Working through Sass in Codecademy. I want to get through Sass so I can do the Javascript course in Codecademy and see if it helps me understand FCC's javascript course better.
+
 **Day 13**: Forgot to log yesterday. Worked on javascript section of FCC. Today worked through the same and also on W3 schools practices.
 
 Day 11: April 12:
